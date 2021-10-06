@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+    background-color: #ffffff;
+    color: #333333;
+    font-size: 18px;
+}
+
+.main {
+    background-color: #eee;
+    margin: 30px 10px;
+    padding: 30px 10px;
+    border-radius: 10px;
+}
+
+
+h1 {
+    font-size: 40px;
+}
+
+.image-section {
+    padding: 10px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.list-heading {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.list {
+    margin: 10px 25%;
+}
+
+li {
+    padding: 4px 15px;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+.quote {
+    margin: 10px 25%;
+    padding-top: 15px;
+    font-style: italic;
+}
+
+.wiki {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.top {
+    text-align: center;
+    padding-top: 15px;
+}
